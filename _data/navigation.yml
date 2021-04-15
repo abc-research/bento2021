@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "The Challenge"
+    url: /learn/
+  - title: "Results"
+    url: /results/
+  - title: "Data"
+    url: /data_description/
+  - title: "Submit a result"
+    url: /submit/
+  - title: "Tutorials"
+    url: /tutorial/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Rules"
+    url: /about/
+  - title: "Registration"
+    url: /how_to/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
