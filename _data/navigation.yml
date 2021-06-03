@@ -16,8 +16,8 @@ main:
     url: /faq/
   - title: "Orgarnizers"
     url: /organizers/
-  - title: "Tutorials"
-    url: /tutorial/
+  # - title: "Tutorials"
+  #   url: /tutorial/
   # - title: "Prize rules"
   #   url: /prize_rules/
   # - title: "Results"
