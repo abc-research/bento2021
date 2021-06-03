@@ -19,7 +19,6 @@ The training dataset contains data about 3 subjects and contains all activity la
 The test dataset contains data about the other subject and is not labeled.
 Participants must submit their predicted macro and micro activities on the test dataset using their models.
 
-- [Make a submission](/bento2021/submit/)
 
 ## Evaluation
 TBD

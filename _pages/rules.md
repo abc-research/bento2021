@@ -18,9 +18,6 @@ Participants should accept all the terms and conditions in this page before regi
 Challenge is open to students, graduate students, researchers, professors, and data scientists. Members of LARSEN Team and members of Sozolab ("Organizers") are not eligible to enter or win.
 Only submissions with a submitted paper are eligible to win a prize.
 
-# Submissions
-- [Make a submission](/bento2021/submit/)
-
 # Workshop Participation
 All participants are encouraged to participate in the Workshop to share details about their approach.  
 
