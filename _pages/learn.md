@@ -22,6 +22,7 @@ Participants must submit their predicted macro and micro activities on the test 
 - [Make a submission](/bento2021/submit/)
 
 ## Evaluation
+TBD
 <!--
 Submissions will be evaluated by the average of the accuracy of macro activity classification (ma) and the average accuracy of micro-activity classification (mi). That is (ma+mi)/2.
 
