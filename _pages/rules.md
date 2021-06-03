@@ -5,7 +5,7 @@ title: "Rules"
 excerpt: "Challenge Rules"
 last_modified_at: 2021-06-01T15:15:09-04:00
 ---
-The Bento Activity Recognition Challenge is organized by [Sozolab](http://sozolab.jp/).
+The Bento Packaging Activity Recognition Challenge is organized by [Sozolab](http://sozolab.jp/).
 
 <!--
 and [Larsen Team](https://team.inria.fr/larsen/).

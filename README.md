@@ -1,4 +1,4 @@
-# ABC Bento Activity Recognition Challenge Website
+# ABC Bento Packaging Activity Recognition Challenge Website
 
 This is the repository for the [website](https://abc-research.github.io/bento2021) of the ABC bento activity recognition challenge by [sozolab](https://sozolab.jp)
 
