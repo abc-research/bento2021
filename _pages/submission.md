@@ -1,11 +1,12 @@
 ---
 layout: single
 permalink: /submit/
-title: "How to join"
+title: "How to Submit Results"
 excerpt: "Join the Challenge"
 last_modified_at: 2021-06-01T00:00:00-09:00
 toc: false
 ---
+Details will be shared later. Please keep an eye on the webpage.
 
 <!--
 Participants are required to submit a file with three columns

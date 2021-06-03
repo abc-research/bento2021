@@ -19,8 +19,6 @@ Challenge is open to students, graduate students, researchers, professors, and d
 Only submissions with a submitted paper are eligible to win a prize.
 
 # Submissions
-TBD
-
 - [Make a submission](/bento2021/submit/)
 
 # Workshop Participation
