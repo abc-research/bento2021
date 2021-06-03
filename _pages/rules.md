@@ -15,8 +15,7 @@ and [Larsen Team](https://team.inria.fr/larsen/).
 Participants should accept all the terms and conditions in this page before registering. By registering, participants agree to these terms. Participants should also register as workshop participants in [ABC](http://abc-research.github.io). Participants not registered in the conference will not be considered in the final leaderboard of the challenge nor for the Prizes.
 
 # Elegibility
-Challenge is open to students, graduate students, researchers, professors, and data scientists. Members of LARSEN Team and members of Sozolab ("Organizers") are not eligible to enter or win.
-Only submissions with a submitted paper are eligible to win a prize.
+Challenge is open to students, graduate students, researchers, professors, and data scientists. Only submissions with a submitted paper are eligible to win a prize.
 
 # Workshop Participation
 All participants are encouraged to participate in the Workshop to share details about their approach.  
