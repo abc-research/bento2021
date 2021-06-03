@@ -5,8 +5,11 @@ title: "Rules"
 excerpt: "Challenge Rules"
 last_modified_at: 2021-06-01T15:15:09-04:00
 ---
-The Bento Activity Recognition Challenge is organized by [Sozolab](http://sozolab.jp/) and [Larsen Team](https://team.inria.fr/larsen/).
+The Bento Activity Recognition Challenge is organized by [Sozolab](http://sozolab.jp/).
 
+<!--
+and [Larsen Team](https://team.inria.fr/larsen/).
+-->
 
 # Registration
 Participants should accept all the terms and conditions in this page before registering. By registering, participants agree to these terms. Participants should also register as workshop participants in [ABC](http://abc-research.github.io). Participants not registered in the conference will not be considered in the final leaderboard of the challenge nor for the Prizes.
@@ -17,6 +20,8 @@ Only submissions with a submitted paper are eligible to win a prize.
 
 # Submissions
 TBD
+
+- [Make a submission](/bento2021/submit/)
 
 # Workshop Participation
 All participants are encouraged to participate in the Workshop to share details about their approach.  
