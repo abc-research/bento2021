@@ -3,9 +3,11 @@ layout: single
 permalink: /submit/
 title: "How to join"
 excerpt: "Join the Challenge"
-last_modified_at: 2019-04-04T15:15:09-04:00
+last_modified_at: 2021-06-01T00:00:00-09:00
 toc: false
 ---
+
+<!--
 Participants are required to submit a file with three columns
 file_id; macro; micro
 
@@ -34,3 +36,4 @@ The paper submission must follow the template and rules for the [ABC Conference]
 To submit a paper participants login to CMT and choose the ABC-Challenge track
 
 [Submit a paper](https://cmt3.research.microsoft.com/IVPRICIEV2020/Submission/Index)
+-->

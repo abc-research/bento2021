@@ -3,8 +3,11 @@ layout: single
 permalink: /prize_rules/
 title: "Prize Rules"
 excerpt: "Prize Rules"
-last_modified_at: 2020-01-08T15:15:09-04:00
+last_modified_at: 2021-06-01T15:15:09-04:00
 ---
+TBD
+
+<!--
 The following conditions apply
 
 1. To be eligible to win, a team must submit both the results of the test dataset and a paper describing the method, results, and other details for the ABC Conference.
@@ -20,3 +23,4 @@ The following conditions apply
 12. Flight reservation should be made in economy class. Additional costs should be pay by the winner if a different class is reserved.
 13.	If you have any questions about the Prize, please email us on abc@sozolab.jp .
 14.	We reserve the right to change these terms and conditions without notice and at any stage during the challenge.
+-->

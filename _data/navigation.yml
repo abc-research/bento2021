@@ -2,21 +2,26 @@
 main:
   - title: "The Challenge"
     url: /learn/
-  - title: "Results"
-    url: /results/
   - title: "Data"
     url: /data/
-  - title: "Submit a result"
-    url: /submit/
-  - title: "Tutorials"
-    url: /tutorial/
-  - title: "FAQ"
-    url: /faq/
-  # - title: "Rules"
-  #   url: /about/
+  - title: "Rules"
+    url: /about/
+  # - title: "Results"
+  #   url: /results/
   - title: "Registration"
     url: /registration/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Submit a result"
+    url: /submit/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Orgarnizers"
+    url: /Organizers/
+  - title: "Tutorials"
+    url: /tutorial/
+  # - title: "Prize rules"
+  #   url: /prize_rules/
+  # - title: "Results"
+  #   url: /results/
+
   # - title: "Sitemap"
   #   url: /sitemap/

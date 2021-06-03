@@ -2,8 +2,9 @@
 layout: single
 title: Results
 permalink: /results/
-date: 2020-09-23T00:00:00+09:00
+date: 2021-06-01T00:00:00+09:00
 ---
+<!-- 
 The Cooking Activity Recognition Challenge was successfully held and the results were announced during International Conference on Activity and Behavior Computing (ABC2020), which was held in Kitakyushu, Japan.
 
 <h3>First place</h3>
@@ -45,3 +46,5 @@ The Cooking Activity Recognition Challenge was successfully held and the results
 <i>Mao Donghui
 
 We thank all participants for their active participation in this challenge!!!
+-->
+

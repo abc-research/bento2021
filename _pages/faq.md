@@ -7,8 +7,9 @@ date: 2020-02-10T00:00:00+09:00
 
 # Frequently Asked Questions
 
-Submit your questions to abc at sozolab.jp with the subject *Cooking Challenge*.
+Submit your questions to abc at sozolab.jp with the subject *Bento Challenge*.
 
+<!--
 **What is the sampling rate of each device?**
 
 The sampling rate for the accelerometers is a little bit variable as we used Android to collect the samples. Android operates sensors on a “best effort” policy, meaning that even if we set a desired sampling rate, the actual sampling rate will vary during the application time depending on other factors such as battery level or free memory.
@@ -35,3 +36,4 @@ The markers are in the following order:
 Top.Head Front.Head Rear.Head R.Shoulder R.Offset R.Elbow R.Wrist L.Shoulder L.Elbow L.Wrist R.ASIS L.ASIS V.Sacral R.Thigh R.Knee R.Shank R.Ankle R.Heel R.Toe L.Thigh L.Knee L.Shank L.Ankle L.Heel L.Toe R.Knee.Medial R.Ankle.Medial L.Knee.Medial L.Ankle.Medial V_Mid_ASIS V_Pelvis_Origin V_R.Hip_JC V_L.Hip_JC V_R.Knee_JC_Static V_L.Knee_JC_Static V_R.Ankle_JC_Static V_L.Ankle_JC_Static V_R.Knee_JC V_L.Knee_JC V_R.Ankle_JC V_L.Ankle_JC V_Mid_Hip V_Mid_Shoulder V_R.Hand V_L.Hand V_R.Toe_Offset_Static V_L.Toe_Offset_Static V_R.Toe_Offset V_L.Toe_Offset
 
 Notice that we use real markers until L.Toe and others are virtual markers (mainly missing, we should have removed them :S )  
+-->
