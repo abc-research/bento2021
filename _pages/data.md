@@ -6,7 +6,7 @@ date: 2021-06-01T00:00:00+09:00
 ---
 The dataset was recorded in the Smart Life Care Unit of the Kyushu Institute of Technology in Japan. A motion capture system from Motion Analysis Company is used for this experiment. It has 29 body markers.4 subjects (men) in their 20’ and 30’s participated in this experiment. Each of the subjects is instructed to put three types of food in the bento box.
 
-- [Download the Train data]()
+- [Download the Train data](https://ieee-dataport.org/competitions/bento-packaging-activity-recognition-challenge)
 
 Here they were instructed to perform 5 different scenarios:
 
