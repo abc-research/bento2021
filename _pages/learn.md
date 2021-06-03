@@ -5,23 +5,21 @@ permalink: /learn/
 date: 2019-04-14T00:00:00+09:00
 ---
 
-Activity Recognition is the process of automatically inferring what a user is doing based on sensor observations. When your smartphone automatically identifies if you have been walking or running, it is doing activity recognition using the observations of its accelerometer sensor. Other applications of activity recognition include remote monitoring of daily activities for elders living alone and automatic record creation for nurses in hospitals. Although these applications only require the recognition of the activity being done, i.e.  cooking, such complex activities are usually made up of several smaller activities like ‘taking from the fridge’. Recognizing such steps can have several advantages.  For instance, in the scenario of an elder living alone recognizing the steps can be used to remind them of a missing step, or to ensure a healthy diet is being followed. In the scenario of the nursing record, recognizing the steps can be used for care quality assessment and for ensuring that safety protocols have been followed like washing the hands at the proper moments.
+Human activity recognition (HAR) has a great impact on human-robot collaboration. With the betterment of lifestyle, it is getting harder to find human labor at a lower wage. This is a big problem for various industries where a big amount of workforce is required at a low wage. Robots can be a great solution for this problem if they can be used as an assistant for humans to do small tasks. To do so the robot needs to first understand what the human is doing! By keeping this in mind Bento Activity Recognition Data has been collected. Here subjects are asked to perform Bento-box packaging tasks. Though several datasets are available on cooking([abc cook2020](https://abc-research.github.io/cook2020/), [epic kitchens](https://epic-kitchens.github.io/202)) and daily living data([activity net](http://activity-net.org/index.html)), this type of industrial activity data set is very hard to find. Cooking needs to follow a step-by-step workflow like Bento packing-which is another good place to implement human-robot collaboration but there are a lot of differences between these two types. While cooking the steps and ingredients used in the food solely depends on the user but during packing a bento you need to put the items the company asked you to do. So, it is very common to forget to put an ingredient and forget to notice, or sometimes when you notice the box is far away in the conveyor belt and if you hustle to put you might mess up the whole thing. Instances like this are very common in Bento-making companies which creates a lot of trouble. To help in this scenario a robot hand can be a perfect assistant but for that, it needs to know what the human is doing and if he has made any mistake, and what type of mistake has been made. Also recognizing these steps can be used for care quality assessment and for ensuring that safety protocols have been followed to avoid the human-robot collision.
 
-Current activity recognition systems focus on recognizing either the complex label (macro activity) or the small steps (micro activities) but their combined recognition is critical for analysis like the ones proposed. In fact, in a nursing scenario, washing the hands after taking blood is very different than doing it before, as it is mandatory. Therefore, in this challenge, we aim at the recognition of the macro and micro activities taking place during cooking sessions.
+Also, in current activity recognition systems it does not matter where you need to put the ingredients but during Bento packing it is very important to identify on which side of the conveyor belt the bento is. Depending on this we have divided activities into inside and outside activity. You can easily identify the position if it is happening inside or outside but their combined recognition to decide which activity is happening is critical for analysis. Therefore, in this challenge, we aim at the recognition of the inside-outside activities and main activities taking place during bento packing sessions.
 
 ## Challenge Goal
-The goal of the Cooking Activity Recognition Challenge is to recognize both the macro activity (recipe) and the micro activities taking place during a 30 second window based on motion data collected with accelerometer and motion capture sensors. [Read data description](/cook2020/data_description/).  
+The goal of the Bento Activity Recognition Challenge is to distinguish activities taking place during each segment based on the motion data collected with motion capture sensors while performing Bento-box packaging tasks ([Read data description](/bento2021/data/)). In the training dataset, we have provided data about 3 subjects along with all activity labels. In the test dataset unlabeled data of the remaining subject has been given. Participants have to submit their predicted activity labels on the test dataset using their models.
 
-[Register to participate](/cook2020/how_to/).
-
-
-[Get the data](/cook2020/data_description/).
+[Register to participate](/bento2021/registration/).
+[Get the data](/bento2021/data/).
 
 The training dataset contains data about 3 subjects and contains all activity labels.
 The test dataset contains data about the other subject and is not labeled.
 Participants must submit their predicted macro and micro activities on the test dataset using their models.
 
-[Make a submission](/cook2020/submit/)
+[Make a submission](/bento2021/submit/)
 
 ## Evaluation
 Submissions will be evaluated by the average of the accuracy of macro activity classification (ma) and the average accuracy of micro-activity classification (mi). That is (ma+mi)/2.
@@ -31,4 +29,4 @@ The average accuracy of micro-activity classification is based on the multi-labe
 
 ## Prizes
 The winner of the challenge will be invited to a visit to our laboratory installations in Kitakyushu, Japan with travel costs supported.
-Read the [prize rules](/cook2020/prize_rules/)
+Read the [prize rules](/bento2021/prize_rules/)

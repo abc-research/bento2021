@@ -5,17 +5,17 @@ main:
   - title: "Results"
     url: /results/
   - title: "Data"
-    url: /data_description/
+    url: /data/
   - title: "Submit a result"
     url: /submit/
   - title: "Tutorials"
     url: /tutorial/
   - title: "FAQ"
     url: /faq/
-  - title: "Rules"
-    url: /about/
+  # - title: "Rules"
+  #   url: /about/
   - title: "Registration"
-    url: /how_to/
+    url: /registration/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
