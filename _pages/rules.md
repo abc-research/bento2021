@@ -28,7 +28,7 @@ All participants may use the data free of charge under CC license.
 The  maximum size of a team is 10 participants.
 
 # Prizes
-TBD
+- Read the [prize rules](/bento2021/prize_rules/)
 
 <!--
 One representative of the winning team will be invited to our laboratory installations in Kitakyushu, Japan for as many as 7 days. During the visit the winner may be able to collect a dataset of their own with our help. The total cost of the trip may not exceed 200 000 YEN including airplane ticket, hotels, in-city transportation and food.
