@@ -2,7 +2,7 @@
 layout: single
 title: ""
 permalink: /faq/
-date: 2020-02-10T00:00:00+09:00
+date: 2021-06-01T00:00:00+09:00
 ---
 
 # Frequently Asked Questions
