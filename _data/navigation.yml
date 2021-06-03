@@ -5,7 +5,7 @@ main:
   - title: "Data"
     url: /data/
   - title: "Rules"
-    url: /about/
+    url: /rules/
   # - title: "Results"
   #   url: /results/
   - title: "Registration"

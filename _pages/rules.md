@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about/
+permalink: /Rules/
 title: "Rules"
 excerpt: "Challenge Rules"
 last_modified_at: 2021-06-01T15:15:09-04:00
