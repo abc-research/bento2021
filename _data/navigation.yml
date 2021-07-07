@@ -6,6 +6,8 @@ main:
     url: /data/
   - title: "Rules"
     url: /rules/
+  - title: "Tutorials"
+    url: /tutorial/tutorial.html
   # - title: "Results"
   #   url: /results/
   - title: "Registration"
@@ -16,8 +18,6 @@ main:
     url: /faq/
   - title: "Orgarnizers"
     url: /organizers/
-  - title: "Tutorials"
-    url: /tutorial/tutorial.html
   # - title: "Prize rules"
   #   url: /prize_rules/
   # - title: "Results"
