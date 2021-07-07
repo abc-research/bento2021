@@ -2,7 +2,7 @@
 layout: single
 title: Data Description
 permalink: /data/
-date: 2021-07-03T00:00:00+09:00
+date: 2021-07-07T00:00:00+09:00
 ---
 The dataset was recorded in the Smart Life Care Unit of the Kyushu Institute of Technology in Japan. A motion capture system from Motion Analysis Company is used for this experiment. It has 29 body markers but in the challenge, we are opening only 13 body marker data. 4 subjects (men) in their 20's and 30's participated in this experiment. Each of the subjects is instructed to put three types of food in the bento box.
 
