@@ -9,7 +9,7 @@ This is the repository for the [website](https://abc-research.github.io/bento202
 - Submission of results: August 1, 2021
 - Submission of paper: August 1, 2021
 - Review sent to participants: August 23, 2021
-- Camera-ready paper: September 7, 2021
+- Camera-ready paper: September 17, 2021
 
 # How to start to make this page
 [doc](http://jekyllrb-ja.github.io/docs/)
