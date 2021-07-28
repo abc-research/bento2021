@@ -12,7 +12,7 @@ Also, in current activity recognition systems it does not matter where you need 
 ## Challenge Goal
 The goal of the Bento Packaging Activity Recognition Challenge is to distinguish activities taking place during each segment based on the motion data collected with motion capture sensors while performing Bento-box packaging tasks ([Read data description](/bento2021/data/)). In the training dataset, we have provided data about 3 subjects along with all activity labels. In the test dataset unlabeled data of the remaining subject has been given. Participants have to submit their predicted activity labels on the test dataset using their models.
 
-- [Registration is opening now.](https://forms.gle/RJ42Z53eVhnVSeGE7)
+- [Registration is opening now.](/bento2021/registration/)
 - [To understand the dataset more clearly](/bento2021/data/).
 
 The training dataset contains data about 3 subjects and contains all activity labels.
