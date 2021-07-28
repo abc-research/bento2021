@@ -5,7 +5,6 @@ permalink: /registration/
 date: 2021-07-28T00:00:00+09:00
 ---
 
-# Closed!
 - __Challenge opens:__ June 1, 2021
 - __Registration close:__ August 17, 2021 __Extended!__
 
