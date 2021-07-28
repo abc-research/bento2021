@@ -18,8 +18,8 @@ main:
     url: /faq/
   - title: "Orgarnizers"
     url: /organizers/
-  - title: "Prize rules"
-    url: /prize_rules/
+  # - title: "Prize rules"
+  #   url: /prize_rules/
 
   # - title: "Results"
   #   url: /results/

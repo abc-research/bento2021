@@ -2,14 +2,14 @@
 layout: single
 title: "Registration"
 permalink: /registration/
-date: 2021-07-21T00:00:00+09:00
+date: 2021-07-28T00:00:00+09:00
 ---
 
 # Closed!
 - __Challenge opens:__ June 1, 2021
-- __Registration close:__ July 15, 2021
+- __Registration close:__ August 17, 2021 __Extended!__
 
-<!-- Please register from [here](https://docs.google.com/forms/d/e/1FAIpQLSe-tdppr-VivBR8nSe_cnTophJsZ3vHLeGBEMYS4j7UGhLMeA/viewform) -->
+Please register from [here](https://forms.gle/RJ42Z53eVhnVSeGE7)
 
 If you have any trouble registering through the form, write an email to abc@sozolab.jo with the subject: "Registration Bento2021" and include your team name and team representative person contact information (name and email).
 

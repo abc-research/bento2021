@@ -3,7 +3,7 @@ layout: single
 permalink: /rules/
 title: "Rules"
 excerpt: "Challenge Rules"
-last_modified_at: 2021-06-01T15:15:09-04:00
+last_modified_at: 2021-07-28T00:00:00-09:00
 ---
 The Bento Packaging Activity Recognition Challenge is organized by [Sozolab](http://sozolab.jp/).
 
@@ -27,7 +27,9 @@ All participants may use the data free of charge under CC license.
 The  maximum size of a team is 10 participants.
 
 # Prizes
-- Read the [prize rules](/bento2021/prize_rules/)
+The winning team will be awarded 100,000 jpy.
+The registration fee for the 1st and 2nd runner-up teams will be waived.
+Each of the participating teams will be awarded with participation certificate.
 
 <!--
 One representative of the winning team will be invited to our laboratory installations in Kitakyushu, Japan for as many as 7 days. During the visit the winner may be able to collect a dataset of their own with our help. The total cost of the trip may not exceed 200 000 YEN including airplane ticket, hotels, in-city transportation and food.
@@ -39,5 +41,5 @@ Other conditions [apply](/bento2021/prize_rules/)
 
 # Competition Timeline
 - __Challenge opens:__ June 1, 2021
-- __Submission of results:__ August 1, 2021
-- __Submission of paper:__ August 1, 2021
+- __Submission of results:__ August 17, 2021 __Extended!__
+- __Submission of paper:__ August 20, 2021 __Extended!__
