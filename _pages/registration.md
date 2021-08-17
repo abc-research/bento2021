@@ -2,7 +2,7 @@
 layout: single
 title: "Registration"
 permalink: /registration/
-date: 2021-07-28T00:00:00+09:00
+date: 2021-08-17T00:00:00+09:00
 ---
 
 - __Challenge opens:__ June 1, 2021
