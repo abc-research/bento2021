@@ -31,7 +31,6 @@ A summary of the resources used such as memory, training time, testing time and 
 
 The paper submission must follow the template and rules for the [ABC Conference](https://abc-research.github.io)
 
-To submit a paper participants login to CMT and choose the ABC-Challenge track
+To submit a paper participants login to CMT and choose the __"Challenge ABC2021"__ track
 
-<!-- [Submit a paper](https://cmt3.research.microsoft.com/IVPRICIEV2020/Submission/Index) -->
-<!-- https://cmt3.research.microsoft.com/ABC2021/Submission/Index -->
+[Submit a paper](https://cmt3.research.microsoft.com/ABC2021/Submission/Index)
