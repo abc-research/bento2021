@@ -3,7 +3,7 @@ layout: single
 permalink: /rules/
 title: "Rules"
 excerpt: "Challenge Rules"
-last_modified_at: 2021-07-28T00:00:00-09:00
+last_modified_at: 2021-08-19T00:00:00-09:00
 ---
 The Bento Packaging Activity Recognition Challenge is organized by [Sozolab](http://sozolab.jp/).
 
@@ -41,5 +41,5 @@ Other conditions [apply](/bento2021/prize_rules/)
 
 # Competition Timeline
 - __Challenge opens:__ June 1, 2021
-- __Submission of results:__ August 17, 2021 __Extended!__
+- __Submission of results:__ August 20, 2021 (Anywhere on the Earth) __Extended!__
 - __Submission of paper:__ August 20, 2021 __Extended!__
