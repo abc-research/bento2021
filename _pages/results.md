@@ -2,49 +2,35 @@
 layout: single
 title: Results
 permalink: /results/
-date: 2021-06-01T00:00:00+09:00
+date: 2021-10-25T00:00:00+09:00
 ---
-<!-- 
+ 
 The Cooking Activity Recognition Challenge was successfully held and the results were announced during International Conference on Activity and Behavior Computing (ABC2020), which was held in Kitakyushu, Japan.
 
-<h3>First place</h3>
 
-<b>Team Potica</b>
+<h2>Winner</h2>
+<h3>Team Nirban</h3>
+<div><b>Title:</b> Can Ensemble of Classifiers Provide Better Recognition Results in Packaging Activity?</div>
+<div><b>Authors:</b> Promit Basak, A.H.M Nazmus Sakib, Shahamat Mustavi Tasin, Syed Doha Uddin, Md Atiqur Rahman Ahad</div>
 
-<i>Clément Picard, Vito Janko, Nina Rešcic, Martin Gjoreski and Mitja Luštrek 
+<h2>Other Participant Teams</h2>
+<div><b>Team Hurukka:</b> Ientification of food packagingactivity using mocap sensor data.</div>
+<div>Authors: Adrita Anwar Malisha Islam Tapotee, P.S., Ahad, M.A.R.</div>
 
-<h3>Second place</h3>
+<div><b>Team Boson Kona:</b> Lunch-box prepa-ration activity understanding from mocap data using handcrafted features.</div>
+<div>Authors: Yeasin Arafat Pritom Md. Sohanur Rahman, H.R.R.M.A.K., Ahad, M.A.R.</div>
 
-<b>Team MCSS_USI</b>
+<div><b>Team Horizon:</b> Bento packaging activity recognition based onstatistical features.</div>
+<div>Authors: Faizul Sayem Md. Mamun Sheikh, M.A.R.A.</div>
 
-<i>Shkurta Gashi, Elena Di Lascio and Silvia Santini
+<div><b>Team 2A & B:</b> sing k-nearest-neighbours feature selectionfor activity recognition.</div>
+<div>Authors: Björn Friedrich Tetchi Ange-Michel Orsot, A.H.</div>
 
-<h3>Third place</h3>
+<div><b>Team GreenRoad:</b> Bento packaging activity recognition frommotion capture data.</div>
+<div>Authors: Jahir Ibna Rafiq Shamaun Nabi, A.A., Hossain, S.</div>
 
-<b>Team UCLA_Orion</b>
-
-<i>Swapnil Sayan Saha, Sandeep Singh Sandha and Mani Srivastava
-
-<h2>Other participants</h2>
-
-<b>TeamIDAG</b>
-<i>Ryoichi Kojima, Shinya Wada, Roberto Legaspi and Kiyohito Yoshihara 
-	
-<b>Team rit_scooking</b>
-<i>Atsuhiro Fujii, Daiki Kajiwara and Kazuya Murao
-	
-<b>Team stillame</b>
-<i>Ninnart Fuengfusin and Hakaru Tamukoh
-
-<b>Team PseudoEmpirical</b>
-<i>Zabir Al Nazi
-	
-<b>Team YNWA</b>
-<i>Md. Sadman Siraj, Omar Ibne Shahid and M.A.R. Ahad
-	
-<b>Team cse_sdu</b>
-<i>Mao Donghui
+<div><b>Team RitsBen:</b> Bento packaging activity recognition with convo-lutional lstm using autocorrelation function and majority vote.</div>
+<div>Authors: Atsuhiro Fujii, Kazuki Yoshida, K.S.K.M.</div>
 
 We thank all participants for their active participation in this challenge!!!
--->
 
