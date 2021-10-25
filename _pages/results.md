@@ -32,5 +32,7 @@ The Cooking Activity Recognition Challenge was successfully held and the results
 <div><b>Team RitsBen:</b> Bento packaging activity recognition with convo-lutional lstm using autocorrelation function and majority vote.</div>
 <div>Authors: Atsuhiro Fujii, Kazuki Yoshida, K.S.K.M.</div>
 
-We thank all participants for their active participation in this challenge!!!
+<h3>
+    We thank all participants for their active participation in this challenge!!!
+</h3>
 
