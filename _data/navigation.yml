@@ -4,16 +4,16 @@ main:
     url: /learn/
   - title: "Data"
     url: /data/
-  - title: "Rules"
-    url: /rules/
+  # - title: "Rules"
+  #   url: /rules/
   - title: "Tutorial"
     url: /tutorial/tutorial.html
   - title: "Results"
     url: /results/
-  - title: "Registration"
-    url: /registration/
-  - title: "Submit a result"
-    url: /submit/
+  # - title: "Registration"
+  #   url: /registration/
+  # - title: "Submit a result"
+  #   url: /submit/
   - title: "FAQ"
     url: /faq/
   - title: "Orgarnizers"
