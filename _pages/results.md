@@ -13,6 +13,10 @@ The Cooking Activity Recognition Challenge was successfully held and the results
 <div><b>Title:</b> Can Ensemble of Classifiers Provide Better Recognition Results in Packaging Activity?</div>
 <div><b>Authors:</b> Promit Basak, A.H.M Nazmus Sakib, Shahamat Mustavi Tasin, Syed Doha Uddin, Md Atiqur Rahman Ahad</div>
 
+<p float="left">
+  <img src="/assets/images/winner.png" width="800" />
+</p>
+
 <h2>Other Participant Teams</h2>
 <div><b>Team Hurukka:</b> Ientification of food packagingactivity using mocap sensor data.</div>
 <div>Authors: Adrita Anwar Malisha Islam Tapotee, P.S., Ahad, M.A.R.</div>
@@ -35,4 +39,16 @@ The Cooking Activity Recognition Challenge was successfully held and the results
 <h3>
     We thank all participants for their active participation in this challenge!!!
 </h3>
+
+<h2>Some photos from the conference</h2>
+
+<p float="left">
+  <img src="/assets/images/2021-10-22-1.png" width="300" />
+  <img src="/assets/images/2021-10-22-2.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="/assets/images/2021-10-22-3.png" width="300" />
+  <img src="/assets/images/2021-10-22-4.png" width="300" />
+</p>
 
